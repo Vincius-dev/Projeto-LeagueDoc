@@ -1,12 +1,12 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Noção De Jogo",
+      "link": "",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Conhecimentos de como se comportar no jogo",
+        "url": ""
       },
       "videos": [
         {
@@ -14,119 +14,127 @@
           "url": "https://youtu.be/fmI_Ndrxy14"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Guia De Wards",
+          "url": "https://youtu.be/AY-380R6f3Q"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Guia De Como Buildar",
+          "url": "https://youtu.be/ZxcwfgNv6zU"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Guia Sobre as Rotações Basicas",
+          "url": "https://youtu.be/ykC6Z_5-9sA"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Como Distribuir a vantagem",
+          "url": "https://youtu.be/ChjsobOJT6c"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Guia De Como tomar boas Decisões",
+          "url": "https://youtu.be/t_uy-veXOnQ"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Guia De Runas",
+          "url": "https://youtu.be/sXo4Tlt1MLs"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Guia Da Lane Phase",
+          "url": "https://youtu.be/TLN6SThPMpI"
+        },
+        {
+          "titulo": "Depois Da T1",
+          "url": "https://youtu.be/XVBsl04ahPE"
+        },
+        {
+          "titulo": "Quando Dar Roming",
+          "url": "https://youtu.be/X1mPyKh8zxo"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Mecanicas",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Parte motora da Gameplay",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Guia para treino de Farm",
+          "url": "https://youtu.be/qNLgumXaSxU"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Guia das Skillshots",
+          "url": "https://youtu.be/KtoOFUOde8Y"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Guia De Controle de Wave",
+          "url": "https://youtu.be/KSJ8ClfaWtM"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "Guia De Kiti",
+          "url": "https://youtu.be/GSZwe1pJQss"
+        },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
+          "titulo": "Guia De Trocas Na Lane",
+          "url": "https://youtu.be/p7QoW83o1XI"
+        } 
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Dicas",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Algumas Dicas que podem serem uteis para iniciantes",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Dicas para Iniciantes",
+          "url": "https://youtu.be/wHir9Yg3ZoQ"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Análise de Low Elo",
+          "url": "https://youtu.be/MS6hBBu_RZo"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Erros Comuns",
+          "url": "https://youtu.be/Ii-DeBuTn3g"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Mais Erros de Low Elo",
+          "url": "https://youtu.be/b1ZSALRhgrE"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Conhecimentos Adicionais",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Armadura e Resistencia Magica",
+          "url": "https://youtu.be/eWSurhB_jnw"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Como Não Tiltar",
+          "url": "https://youtu.be/rMWn5_J_Glc"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "As Lanes mais desejadas",
+          "url": "https://youtu.be/_k-1v3G9efE"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Skill Ceiling ",
+          "url": "https://youtu.be/549h43CXsAQ"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Lanes",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Guias expecificos sobre cada lane e derivados",
+        "url": ""
       },
       "videos": [
         {
